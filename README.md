@@ -1,8 +1,5 @@
 ### Hola👋, soy 🦖Hormi🐜 también conocido como 😇Iván😈
-
-## ▪️ Github stats 📊
-
-![HormiDev GitHub stats](https://github-readme-stats.vercel.app/api?username=hormidev&show_icons=true&theme=github_dark)
+![Estadicas de GitHub HormiDev](https://github-readme-stats.vercel.app/api?username=hormidev&show_icons=true&theme=github_dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HormiDev&layout=compact&theme=github_dark)
 <!--
