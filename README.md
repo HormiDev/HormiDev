@@ -1,7 +1,7 @@
 ### Hola👋, soy 🦖Hormi🐜 también conocido como 😇Iván😈
-![Estadicas de GitHub HormiDev](https://github-readme-stats.vercel.app/api?username=hormidev&show_icons=true&theme=github_dark)
+[![HormiDev's 42 stats](https://badge.mediaplus.ma/greenbinary/ide-dieg?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HormiDev&layout=compact&theme=github_dark)
+![HormiDev GitHub stats](https://github-readme-stats.vercel.app/api?username=hormidev&show_icons=true&theme=github_dark)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HormiDev&layout=compact&theme=github_dark)
 <!--
 **HormiDev/HormiDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
