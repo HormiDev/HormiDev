@@ -1,5 +1,10 @@
 ### Hola👋, soy 🦖Hormi🐜 también conocido como 😇Iván😈
 
+## ▪️ Github stats 📊
+
+![HormiDev GitHub stats](https://github-readme-stats.vercel.app/api?username=hormidev&show_icons=true&theme=github_dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HormiDev&layout=compact&theme=github_dark)
 <!--
 **HormiDev/HormiDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
