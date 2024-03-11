@@ -1,5 +1,5 @@
 # Hola👋, soy 🦖Hormi🐜 también conocido como 😇Iván😈
-[![HormiDev's 42 stats](https://badge.mediaplus.ma/greenbinary/ide-dieg?1337Badge=off&UM6P=off)](https://profile.intra.42.fr/users/ide-dieg)
+<a href="https://profile.intra.42.fr/users/ide-dieg"><img src="https://badge.mediaplus.ma/greenbinary/ide-dieg?1337Badge=off&UM6P=off" width="60%"></a><a href="https://www.42madrid.com/"><img src="https://www.42madrid.com/wp-content/uploads/2019/11/logo-header@2x.png" width="36%"></a>
 
 ![HormiDev GitHub stats](https://github-readme-stats.vercel.app/api?username=hormidev&show_icons=true&theme=github_dark)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HormiDev&layout=compact&theme=github_dark)
 <!--
