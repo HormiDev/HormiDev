@@ -6,6 +6,8 @@
 
 <a href="https://profile.intra.42.fr/users/ide-dieg"><img src="https://badge.mediaplus.ma/greenbinary/ide-dieg?1337Badge=off&UM6P=off" width="60%"></a><a href="https://www.42madrid.com/"><img src="https://github.com/HormiDev/HormiDev/blob/main/logo_42.png" width="40%">
 
+<a href="[https://profile.intra.42.fr/users/ide-dieg](https://www.codewars.com/users/HormiDev)"><img src="https://www.codewars.com/users/HormiDev/badges/large" alt="HormiDev GitHub stats" width="50%"></a>
+
 <img src="https://github-readme-stats.vercel.app/api?username=hormidev&show_icons=true&theme=github_dark" alt="HormiDev GitHub stats" width="56.9%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HormiDev&layout=compact&theme=github_dark" alt="Top Langs" width="43.1%">
 
 <!--
