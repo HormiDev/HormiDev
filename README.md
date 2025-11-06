@@ -2,7 +2,7 @@
 
 ## 😊 Soy un entusiasta de la tecnología 💻, me encanta aprender 🎓, experimentar 🧪 y cacharrear 🛠️ con todas las novedades. Siempre estoy listo para el próximo reto 🏁🤖🚀
 
-### 📚 Estudio en 42 Madrid, ¡el mejor campus del mundo! 🌍 Es un lugar de aprendizaje colaborativo peer-to-peer. 🤝 Enfrento desafíos que impulsan la creatividad e innovación. 💡 Además, comparto este emocionante viaje con una comunidad tan friki como brillante. 👨‍💻✨
+### 📚 Estudio en 42 Madrid, 🌍 Es un lugar de aprendizaje colaborativo peer-to-peer. 🤝 Enfrento desafíos que impulsan la creatividad e innovación. 💡 Además, comparto este emocionante viaje con una comunidad tan friki como brillante. 👨‍💻✨
 
 <a href="https://profile.intra.42.fr/users/ide-dieg"><img src="https://badge.mediaplus.ma/greenbinary/ide-dieg?1337Badge=off&UM6P=off" width="60%"></a><a href="https://www.42madrid.com/"><img src="https://github.com/HormiDev/HormiDev/blob/main/logo_42.png" width="40%">
 
